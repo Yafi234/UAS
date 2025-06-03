@@ -1,0 +1,82 @@
+CRITICAL - 2025-04-16 08:16:37 --> CodeIgniter\Exceptions\RuntimeException: View themes, no current section.
+[Method: GET, Route: produk]
+in SYSTEMPATH/View/View.php on line 430.
+ 1 APPPATH/Views/v_produk.php(4): CodeIgniter\View\View->endSection()
+ 2 SYSTEMPATH/View/View.php(224): include('/home/valefor/dimas_coding/pwl/tugas-route/app/Views/v_produk.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProdukController.php(12): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\ProdukController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/valefor/dimas_coding/pwl/tugas-route/public/index.php')
+CRITICAL - 2025-04-16 08:17:56 --> CodeIgniter\Exceptions\RuntimeException: View themes, no current section.
+[Method: GET, Route: produk]
+in SYSTEMPATH/View/View.php on line 430.
+ 1 APPPATH/Views/v_produk.php(4): CodeIgniter\View\View->endSection()
+ 2 SYSTEMPATH/View/View.php(224): include('/home/valefor/dimas_coding/pwl/tugas-route/app/Views/v_produk.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProdukController.php(12): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\ProdukController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/valefor/dimas_coding/pwl/tugas-route/public/index.php')
+CRITICAL - 2025-04-16 08:19:13 --> CodeIgniter\Exceptions\RuntimeException: View themes, no current section.
+[Method: GET, Route: produk]
+in SYSTEMPATH/View/View.php on line 430.
+ 1 APPPATH/Views/v_produk.php(4): CodeIgniter\View\View->endSection()
+ 2 SYSTEMPATH/View/View.php(224): include('/home/valefor/dimas_coding/pwl/tugas-route/app/Views/v_produk.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProdukController.php(12): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\ProdukController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/valefor/dimas_coding/pwl/tugas-route/public/index.php')
+CRITICAL - 2025-04-16 08:19:21 --> CodeIgniter\Exceptions\RuntimeException: View themes, no current section.
+[Method: GET, Route: produk/]
+in SYSTEMPATH/View/View.php on line 430.
+ 1 APPPATH/Views/v_produk.php(4): CodeIgniter\View\View->endSection()
+ 2 SYSTEMPATH/View/View.php(224): include('/home/valefor/dimas_coding/pwl/tugas-route/app/Views/v_produk.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProdukController.php(12): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\ProdukController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH/rewrite.php(44): require_once('/home/valefor/dimas_coding/pwl/tugas-route/public/index.php')
+CRITICAL - 2025-04-16 08:20:52 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "keranjang<script>alert('xss')<"
+[Method: GET, Route: keranjang%3Cscript%3Ealert%28%27xss%27%29%3C/script%3E]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/home/valefor/dimas_coding/pwl/tugas-route/public/index.php')
+CRITICAL - 2025-04-16 08:21:15 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "<script>alert('xss')<"
+[Method: GET, Route: keranjang/%3Cscript%3Ealert%28%27xss%27%29%3C/script%3E]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/home/valefor/dimas_coding/pwl/tugas-route/public/index.php')
