@@ -43,9 +43,11 @@ $routes->post('kategori-produk', 'ProdukKategoriController::create');
 $routes->post('kategori-produk/edit/(:num)', 'ProdukKategoriController::edit/$1');
 $routes->get('kategori-produk/delete/(:num)', 'ProdukKategoriController::delete/$1');
 
-
+$routes->get('profile', 'Home::profile', ['filter' => 'auth']);
 
 
 $routes->get('produk', 'ProdukController::index', ['filter' => 'auth']);
 $routes->get('keranjang', 'TransaksiController::index', ['filter' => 'auth']);
+
+$routes->resource('api', ['controller' => 'apiController']);
 

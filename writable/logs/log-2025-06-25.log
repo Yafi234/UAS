@@ -1,0 +1,1865 @@
+DEBUG - 2025-06-25 11:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 11:37:09 --> Cart Class Initialized
+WARNING - 2025-06-25 11:37:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 11:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:37:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 11:37:24 --> Cart Class Initialized
+WARNING - 2025-06-25 11:37:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 11:37:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 11:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 11:37:26 --> Cart Class Initialized
+WARNING - 2025-06-25 11:37:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 11:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-25 12:08:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:09:15 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:09:15 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:09:40 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:09:41 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:10:35 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:10:35 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:10:43 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:10:43 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:10:43 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:10:44 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:10:44 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:10:44 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:06 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:06 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:09 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:09 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:12:09 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:12:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 12:12:48 --> Cart Class Initialized
+WARNING - 2025-06-25 12:12:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:12:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-25 12:14:19 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:14:19 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:14:20 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:14:20 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:14:20 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:14:20 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-25 12:22:28 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:22:28 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:24:22 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:27:27 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:27:27 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:37:16 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:37:16 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:42:44 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:42:44 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:23 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:23 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:25 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:25 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:25 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:25 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:25 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:25 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:26 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:26 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:26 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:43:26 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:44:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 12:44:14 --> Cart Class Initialized
+WARNING - 2025-06-25 12:44:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:44:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 12:44:17 --> Cart Class Initialized
+WARNING - 2025-06-25 12:44:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 12:44:21 --> Cart Class Initialized
+WARNING - 2025-06-25 12:44:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:44:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 12:44:24 --> Cart Class Initialized
+WARNING - 2025-06-25 12:44:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 12:44:39 --> Cart Class Initialized
+WARNING - 2025-06-25 12:44:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:44:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 12:44:40 --> Cart Class Initialized
+WARNING - 2025-06-25 12:44:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 12:44:44 --> Cart Class Initialized
+WARNING - 2025-06-25 12:44:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:44:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 12:44:54 --> Cart Class Initialized
+WARNING - 2025-06-25 12:44:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:45:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 12:45:09 --> Cart Class Initialized
+WARNING - 2025-06-25 12:45:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 12:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:45:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 12:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-25 12:46:51 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 12:56:16 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:16 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:17 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:17 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:17 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:17 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:18 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:18 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:18 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:18 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:18 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:19 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:00:19 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:14 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:15 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:15 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:15 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:15 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:15 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:16 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:16 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:16 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:17 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:17 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:17 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:17 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:18 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:18 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:18 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:12:18 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:15:25 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:15:25 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:15:26 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:15:26 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:18:02 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:18:03 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:18:29 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 13:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 13:19:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 13:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 13:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 13:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 13:28:11 --> Cart Class Initialized
+WARNING - 2025-06-25 13:28:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 13:28:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 13:28:12 --> Cart Class Initialized
+WARNING - 2025-06-25 13:28:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:39:06 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:39:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:39:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:39:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:39:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:39:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:39:19 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:39:20 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:39:20 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 13:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-25 13:41:05 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:41:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:41:08 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 13:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 13:41:58 --> Cart Class Initialized
+WARNING - 2025-06-25 13:41:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 13:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 13:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-25 13:43:10 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:43:16 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:43:16 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:43:31 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:03 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:03 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:04 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:04 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:04 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:04 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:04 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:04 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:05 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:05 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:05 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:05 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:05 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:06 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:06 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:06 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:06 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:06 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:06 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:07 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 13:45:13 --> ErrorException: Undefined property: App\Controllers\ApiController::$apiKey
+[Method: GET, Route: api]
+in APPPATH\Controllers\ApiController.php on line 48.
+ 1 APPPATH\Controllers\ApiController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ApiController::$apiKey', 'C:\\xampp\\htdocs\\Tugas07\\app\\Controllers\\ApiController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ApiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 14:23:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 14:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 14:23:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 14:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 14:24:02 --> Cart Class Initialized
+WARNING - 2025-06-25 14:24:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 14:24:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 14:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 14:24:15 --> Cart Class Initialized
+WARNING - 2025-06-25 14:24:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 14:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 14:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 14:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 14:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 14:24:22 --> Cart Class Initialized
+WARNING - 2025-06-25 14:24:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 14:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 14:24:26 --> Cart Class Initialized
+WARNING - 2025-06-25 14:24:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 14:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 14:24:41 --> Cart Class Initialized
+WARNING - 2025-06-25 14:24:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+CRITICAL - 2025-06-25 14:24:42 --> GuzzleHttp\Exception\ClientException: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=temangg&limit=50` resulted in a `404 Not Found` response:
+{"meta":{"message":"Domestic Destinations Data not found","code":404,"status":"error"},"data":null}
+
+[Method: GET, Route: get-location]
+in VENDORPATH\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111.
+ 1 VENDORPATH\guzzlehttp\guzzle\src\Middleware.php(72): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), null, [], null)
+ 2 VENDORPATH\guzzlehttp\promises\src\Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+ 3 VENDORPATH\guzzlehttp\promises\src\Promise.php(158): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), null)
+ 4 VENDORPATH\guzzlehttp\promises\src\TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH\guzzlehttp\promises\src\Promise.php(251): GuzzleHttp\Promise\TaskQueue->run(true)
+ 6 VENDORPATH\guzzlehttp\promises\src\Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH\guzzlehttp\promises\src\Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH\guzzlehttp\promises\src\Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH\guzzlehttp\promises\src\Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH\guzzlehttp\guzzle\src\Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH\Controllers\TransaksiController.php(87): GuzzleHttp\Client->request('GET', 'https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=temangg&limit=50', [...])
+12 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TransaksiController->getLocation()
+13 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TransaksiController))
+14 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+18 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 14:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 14:24:47 --> Cart Class Initialized
+WARNING - 2025-06-25 14:24:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 14:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 14:24:48 --> Cart Class Initialized
+WARNING - 2025-06-25 14:24:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 14:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-25 14:24:49 --> Cart Class Initialized
+WARNING - 2025-06-25 14:24:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\TransaksiController::$apiKey is deprecated in APPPATH\Controllers\TransaksiController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Tugas07\\public\\index.php')
+DEBUG - 2025-06-25 14:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-25 14:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
